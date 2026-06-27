@@ -1,4 +1,4 @@
-# smart-energy-monitor
+
 # Multithreaded Smart Home Energy Monitor
 
 A C++ console application that monitors home appliance energy consumption using multithreading.
