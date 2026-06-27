@@ -25,4 +25,4 @@ g++ -std=c++17 energy_monitor.cpp -o energy_monitor
 ```
 
 ## Problem Statement
-Indian households often don't know which appliance consumes the most electricity. This tool provides visibility into home energy usage, identifies high-consumption appliances, and helps reduce electricity bills.
+Indian households often don't know which appliance consumes the most electricity. This tool provides visibility into home energy usage, identifies high-consumption appliances, helps reduce electricity bills, and calculates carbon footprint based on India's average grid emission factor (0.82 kg CO2/kWh) to promote sustainable energy consumption.
